@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shahana.ahmad/Documents/practice/MealApp/MealApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "outputFile": "/Users/shahana.ahmad/Desktop/MealApp/mealApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
                     "source": "/Users/shahana.ahmad/.gradle/caches/transforms-3/19f285c5360101e74a65ffd2dd8f0c51/transformed/material-1.1.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
